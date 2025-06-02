@@ -122,7 +122,7 @@ void checkIn() {
             printf("1 - Suco de Laranja\n2 - Guaraná\n3 - Água\n4 - Limonada suíça\n5- Coca-Cola\n6-Cerveja\n7-Vinho\n");
             break;
         default:
-            printf("Escolha inválida. Reinicie!\n");
+            printf("Escolha inválida.\n");
             return;
     }
 
