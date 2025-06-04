@@ -6,7 +6,7 @@ void servicoQuarto();
 void fazerPedido();
 
 int main() {
-    setlocale(LC_ALL, "");
+   
 
 int opcao;
 do {
